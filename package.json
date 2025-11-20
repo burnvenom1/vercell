@@ -1,0 +1,8 @@
+{
+  "name": "hepsi-proxy",
+  "version": "1.0.0",
+  "description": "Hepsiburada Proxy API",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
